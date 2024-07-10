@@ -28,7 +28,7 @@ print(romanize_text("안녕하세요, 세계!🌍, Hello, world!")) # annyeongha
 
 ## Acknowledgements
 
-This project, Korean Romanizer, was conceptualized and implemented with the assistance of AI language models, specifically OpenAI's ChatGPT and Anthropic's Claude. These AI models provided guidance on the algorithm design, code structure, and implementation details.
+This project, rotten-korean-romanizer, was conceptualized and implemented with the assistance of AI language models, specifically OpenAI's ChatGPT and Anthropic's Claude. These AI models provided guidance on the algorithm design, code structure, and implementation details.
 
 While the core logic and implementation were developed through interactions with AI, all code has been reviewed, tested, and refined by human developers to ensure accuracy, efficiency, and adherence to best practices.
 
